@@ -1,2 +1,2 @@
-#This is my first repo
-Author : Sachin singh
+#This is my first repoitory
+Author: Sachin singh
