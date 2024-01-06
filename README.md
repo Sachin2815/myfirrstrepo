@@ -1,3 +1,3 @@
 #This is my first repository for testing git from my workspace 
-today i am going to complete day7 of learning python for DevOps by Abhishek sir 
+today i am going to learn day8 of python for DevOps by Abhishek sr 
 Author: Sachin singh
